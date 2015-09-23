@@ -1,2 +1,3 @@
 # SI322
-This Project belong to Thammanoon Chiarasuwan
+Hello World
+This is a Readme file
